@@ -1,0 +1,19 @@
+#- "a e f"
+#- "b x y"
+#- c
+#- d
+#- ~   #代表None
+
+#["a","b","c","d"]
+
+
+
+#字典
+languages:  #key
+  -Ruby     #value
+  -Perl
+  -Python
+websites:   #key
+  YAML:yaml.org   #value
+  Ruby:ruby-lang.org
+  Python:python.org
